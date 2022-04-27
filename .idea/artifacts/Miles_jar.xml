@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Miles:jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="Miles.jar">
+      <element id="module-output" name="Miles" />
+    </root>
+  </artifact>
+</component>
